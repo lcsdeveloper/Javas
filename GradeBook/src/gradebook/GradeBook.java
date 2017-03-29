@@ -5,6 +5,11 @@ package gradebook;
 public class GradeBook {
     private String courseName; //nome do curso para esse GradeBook
     
+    //o construtor inicializa courseName com o argumento String
+    public GradeBook( String name){
+        courseName = name;// armazena courseName
+    }//fim do construtor
+    
     //metodo para configurar o nome do curso
     public void setCurseName( String name){
         courseName = name;//armazena o nome do curso
