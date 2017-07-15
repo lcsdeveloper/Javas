@@ -1,9 +1,9 @@
 Olá obrigado pela visita!
 
-Bem como todo programador sabe aprender uma liguagem de programação
-que mudo o seu jeito de penser é preciso, bem aqui estou eu
-no bom e velho Java. Irei subir os codigos da minha inicializacao
-entao serao codigos iniciais e leves que com o tempo irao subir 
+Bem como todo programador sabe, aprender uma liguagem de programação
+que muda o seu modo de pensar é preciso, bem aqui estou
+no bom e velho Java. Irei subir os códigos da minha inicializacao
+então serão códigos iniciais e leves que com o tempo irão subir 
 de nivel.
 
 Obrigado.
