@@ -1,3 +1,10 @@
+/*
+*Lucas Souza
+*12/24/2017
+*07:34 PM
+* Classe Account com um construtor para validar
+* e inicializar a variável de instância balance do tipo double.
+*/
 package account;
 
 import java.util.Scanner;
@@ -41,7 +48,6 @@ public class AccountTest {
         System.out.printf("account1 balance: $%.2f \n",
             account1.getBalance() );
         System.out.printf("account2 balance: $%.2f \n\n",
-                account2.getBalance() );
-        
+                account2.getBalance() );        
     } //fim do main    
 } // fim da classe AccountTest
